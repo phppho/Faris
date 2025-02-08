@@ -1,2 +1,0 @@
-# Faris
-Pyt bh
