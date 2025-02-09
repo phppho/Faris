@@ -98,7 +98,7 @@ def scheduled_task():
 # ---------------------- التشغيل الرئيسي ----------------------
 if __name__ == "__main__":
     # جدولة المهام كل 6 ساعات
-    schedule.every(6).hours.do(scheduled_task)
+    schedule.every(1).hours.do(scheduled_task)
     
     # التشغيل الفوري لأول مرة
     scheduled_task()
