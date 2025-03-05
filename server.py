@@ -10,7 +10,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # تعيين مفاتيح API
-OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
+OPENAI_API_KEY = os.getenv(" ى")
 FACEBOOK_PAGE_ID = os.getenv("FACEBOOK_PAGE_ID224589568286774SS_TOKEN = os.getenv("FACEBOOK_ACCESS_TOKENEAAQabtZB7Rd0BOyaq63AIFaooZCX360rYg04V2L4AvO3edDlBCZCvjkNa2ODYtLsk9GtPubyJbJLDpKojDpIk5nIAAsLSKvNHhUbJxQE1raCuB75Rzz9rTROPQpq3nCQuSz31SoPZAZBseLsZB4lLWoeHYYPYuQiRpx0o3T4QN96fPvmyZCpLvK2xvVDDHavuL2F7RKgMUtiOTZCqgZC6y44SsxAZD(Logging)
 logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
 
